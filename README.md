@@ -7,7 +7,7 @@
 I'm a creative and detail-oriented developer with over 5 years of experience building responsive websites and custom web applications. From HTML & CSS to advanced frameworks like React and WordPress customization, I bring digital ideas to life.
 
 🔗 **Portfolio:** [usmanali.dev](https://usmanali.dev) *(Replace with your actual link)*  
-📧 **Email:** [youremail@example.com](mailto:youremail@example.com)  
+📧 **Email:** [youremail@example.com](mailto:uali0406@gmail.com)  
 📍 **Location:** Pakistan  
 📎 **LinkedIn:** [linkedin.com/in/usman0406](https://linkedin.com/in/usman0406)
 
